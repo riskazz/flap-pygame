@@ -7,6 +7,8 @@ much like the previously classic Android games, Flappy Bird requires players to 
 
 run the python3 main.py files to play the game.
 
+**update:** I added an .exe file if you want to play the game only 
+
 ## Personal Objectives
 This is my first game development project, which I am trying to 
 1) enhance my Python programming skill
